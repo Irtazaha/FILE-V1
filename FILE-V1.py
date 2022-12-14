@@ -96,7 +96,7 @@ def banner():
 \033[1;32m     \033[1;32mGITHUB       :  \033[1;32mMOSHIN-007
 \033[1;32m     \033[1;32mTOOL STATUS  :  \033[1;32mTOOL IS FREE
 \033[1;32m     \033[1;32mTEAM         :  \033[1;32mMMS
-\033[1;32m     \033[1;32mTOOL VIRSION :  \033[1;32m2.3
+\033[1;32m     \033[1;32mTOOL VIRSION :  \033[1;32m0.2
 \033[1;37m================= \33[32;45mIRTAZA\33[0;m =====================
  
        \33[37;41m\t WELLCOME TO MMS TOOL\33[0;m
